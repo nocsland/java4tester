@@ -12,6 +12,6 @@ repositories {
 }
 
 dependencies {
-    testCompile 'junit:junit:4.13.1'
+    testCompile 'junit:junit:4.13.2'
     testCompile 'org.seleniumhq.selenium:selenium-java:3.141.59'
 }
